@@ -19,7 +19,7 @@ void main()
 			i++;
 		}
 		i = 1;
-		j = 22;
+
 		outloop++;
 	}
 	fgetc(stdin);
